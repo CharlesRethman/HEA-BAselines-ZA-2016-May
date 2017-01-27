@@ -1,0 +1,15 @@
+# QGIS temporary files
+*.qgs~
+
+# Excel lock files
+~$*.xl*
+
+# QGIS and CSV backup files
+*.qgs~
+*.csv~
+
+# Libre Office back up files
+.~lock*
+
+# OSX system folder files
+.DS_Store
